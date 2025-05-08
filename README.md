@@ -6,7 +6,7 @@ Welcome to my Certifications Repository! This space serves as a portfolio of my 
 
 ### 1. **CompTIA Security+**
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=CompTIA)
-- Credential: **Security+ Certification (SY0-601)**
+- Credential: **Security+ Certification (SY0-701)**
 - Issuer: **CompTIA**
 - Focus: Cybersecurity fundamentals, risk management, threat detection, secure network architecture.
 - 🔗 [View Certification](https://www.credly.com/badges/fe25aa62-9e86-4b05-8b52-092333da9227/public_url)
