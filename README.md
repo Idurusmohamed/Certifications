@@ -9,7 +9,7 @@ Welcome to my Certifications Repository! This space serves as a portfolio of my 
 - Credential: **Security+ Certification (SY0-601)**
 - Issuer: **CompTIA**
 - Focus: Cybersecurity fundamentals, risk management, threat detection, secure network architecture.
-- 🔗 [View Certification](https://www.credly.com/badges/[Your_SecurityPlus_Badge_ID]/public_url)
+- 🔗 [View Certification](https://www.credly.com/badges/fe25aa62-9e86-4b05-8b52-092333da9227/public_url)
 
 ---
 
@@ -18,7 +18,7 @@ Welcome to my Certifications Repository! This space serves as a portfolio of my 
 - Credential: **Linux Essentials Professional Development Certificate (PDC)**
 - Issuer: **Linux Professional Institute (LPI)**
 - Focus: Linux operating system basics, open-source software concepts, command-line operations.
-- 🔗 [View Certification](https://cs.lpi.org/caf/Xamman/certification/verify/[Your_LPI_ID])
+- 🔗 [View Certification](https://www.credly.com/badges/9daece2f-6fe4-41d9-b7a5-16b70085dc1f/public_url)
 
 ---
 
@@ -27,7 +27,7 @@ Welcome to my Certifications Repository! This space serves as a portfolio of my 
 - Credential: **ITIL® 4 Foundation**
 - Issuer: **AXELOS / PeopleCert**
 - Focus: IT service management best practices, service value system, key ITIL concepts and principles.
-- 🔗 [View Certification](https://www.credly.com/badges/[Your_ITIL_Badge_ID]/public_url)
+- 🔗 [View Certification](/Certifications/ITIL%20Foundation.pdf)
 
 ---
 
@@ -37,13 +37,13 @@ Welcome to my Certifications Repository! This space serves as a portfolio of my 
 - Platform: **Coursera**
 - Authorized by: **Google**
 - Focus: Computer hardware, operating systems, troubleshooting, customer support essentials.
-- 🔗 [View Certification](https://www.coursera.org/account/accomplishments/certificate/[Your_Coursera_Certificate_ID])
+- 🔗 [View Certification](https://www.coursera.org/account/accomplishments/certificate/2QKJ9V3BKN63)
 
 ---
 
 ## 📂 Repository Structure
 
-Each certification listed above will have its own folder containing:
+Each certification lists:
 - 📄 **Certificate PDF (if available)**
 - 📘 **Credential details**
 - 📑 **Coursework summary or notes**
