@@ -44,7 +44,7 @@ Welcome to my Certifications Repository! This space serves as a portfolio of my 
 ## 📂 Repository Structure
 
 Each certification lists:
-- 📄 **Certificate PDF (if available)**
+- 📄 **Certificate PDF**
 - 📘 **Credential details**
 - 📑 **Coursework summary or notes**
 - 🔗 **Verification links**
